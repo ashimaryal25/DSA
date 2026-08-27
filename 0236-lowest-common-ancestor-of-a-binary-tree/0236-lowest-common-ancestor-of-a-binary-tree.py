@@ -6,23 +6,24 @@ class Solution(object):
                 return None
 
             if node == p or node == q:
-                return node
-
-            right = dfs(node.right, p, q)    
+                return node   
 
             left =  dfs(node.left, p, q)
+            right = dfs(node.right, p, q)
 
-            if right and left :
+            if left is not None and right is not None:
                 return node
 
-            if right:
-                return right
-
-            if left:
+            # Then check individually
+            if left is not None:
                 return left
 
+            if right is not None:
+                return right
 
             return None
+
+
 
         return dfs( root, p, q )    
 
