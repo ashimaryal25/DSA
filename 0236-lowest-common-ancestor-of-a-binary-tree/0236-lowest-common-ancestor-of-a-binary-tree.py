@@ -11,14 +11,14 @@ class Solution(object):
             left =  dfs(node.left, p, q)
             right = dfs(node.right, p, q)
 
-            if left is not None and right is not None:
+            if left  and right:
                 return node
 
             # Then check individually
             if left is not None:
                 return left
 
-            if right is not None:
+            if right:
                 return right
 
             return None
