@@ -1,42 +1,38 @@
 class Solution(object):
     def pacificAtlantic(self, heights):
-        ROWS = len(heights)
-        COLS = len(heights[0])
+        pacific = set()
+        atlantic = set()
+        row = len(heights)
+        col = len(heights[0])
 
-        pac = set()
-        atl = set()
-
-        def dfs(r, c, visited, prevHeight):
-            if (
-                r < 0 or c < 0 or
-                r >= ROWS or c >= COLS or
-                (r, c) in visited or
-                heights[r][c] < prevHeight
-            ):
+        def dfs(prev_height, r, c, seen):
+            if r < 0 or r >= row or c < 0 or c >= col:
                 return
+            
+            if (r, c) in seen or prev_height > heights[r] [c]:
+                return
+            seen.add((r, c))  
 
-            visited.add((r, c))
+            h = heights[r][c] 
+            dfs(h, r-1, c, seen)
+            dfs(h, r+1, c, seen)
+            dfs(h, r, c+1, seen)
+            dfs(h, r, c-1, seen)
 
-            dfs(r + 1, c, visited, heights[r][c])
-            dfs(r - 1, c, visited, heights[r][c])
-            dfs(r, c + 1, visited, heights[r][c])
-            dfs(r, c - 1, visited, heights[r][c])
+        #top and bottom
+        for i in range(0, col):
+            dfs(-1, 0, i, pacific)
+            dfs(-1, row - 1, i, atlantic)
 
-        # top + bottom
-        for c in range(COLS):
-            dfs(0, c, pac, heights[0][c])
-            dfs(ROWS - 1, c, atl, heights[ROWS - 1][c])
-
-        # left + right
-        for r in range(ROWS):
-            dfs(r, 0, pac, heights[r][0])
-            dfs(r, COLS - 1, atl, heights[r][COLS - 1])
+        #left and right
+        for i in range(0, row):
+            dfs(-1, i, 0, pacific)
+            dfs(-1, i, col-1, atlantic)
 
         res = []
-
-        for r in range(ROWS):
-            for c in range(COLS):
-                if (r, c) in pac and (r, c) in atl:
-                    res.append([r, c])
+        for i in range(row):
+            for j in range(col):
+                if (i, j) in pacific and (i, j) in atlantic:
+                    res.append([i,j])
 
         return res
