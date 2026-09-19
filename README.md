@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/ashimaryal25/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ashimaryal25/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ashimaryal25/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ashimaryal25/DSA-Practice/tree/main/0054-spiral-matrix/) | Medium |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ashimaryal25/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/ashimaryal25/DSA-Practice/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ashimaryal25/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
