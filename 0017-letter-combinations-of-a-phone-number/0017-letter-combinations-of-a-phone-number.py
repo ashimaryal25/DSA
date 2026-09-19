@@ -1,6 +1,8 @@
 class Solution(object):
     def letterCombinations(self, digits):
-        
+        if not digits:
+            return []
+            
         nums = {
             "2" : "abc",
             "3" : "def",
