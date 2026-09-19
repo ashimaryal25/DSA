@@ -15,7 +15,7 @@ class Solution(object):
         res = []
         stack = []
 
-        def dfs(cur, cur_combo):
+        def dfs(cur):
 
             if cur == len(digits):
                 res.append("".join(stack))
@@ -26,10 +26,10 @@ class Solution(object):
             for c in nums[cur_d]:
                 stack.append(c)
 
-                dfs(cur + 1, cur_combo)
+                dfs(cur + 1)
 
                 stack.pop()
-        dfs(0, "")
+        dfs(0)
         return res
 
 
