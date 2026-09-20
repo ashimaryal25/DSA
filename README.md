@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0704-binary-search/) | Easy |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ashimaryal25/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,8 +492,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
