@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ashimaryal25/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/ashimaryal25/DSA-Practice/tree/main/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/ashimaryal25/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ashimaryal25/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0268-missing-number/) | Easy |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -432,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Shortest Path
@@ -498,4 +503,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
