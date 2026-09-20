@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ashimaryal25/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0221-maximal-square](https://github.com/ashimaryal25/DSA-Practice/tree/main/0221-maximal-square/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ashimaryal25/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
