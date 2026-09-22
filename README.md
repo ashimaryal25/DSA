@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Queue
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ashimaryal25/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,4 +514,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
