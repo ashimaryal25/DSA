@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/ashimaryal25/DSA-Practice/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/ashimaryal25/DSA-Practice/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/ashimaryal25/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ashimaryal25/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -357,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/ashimaryal25/DSA-Practice/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/ashimaryal25/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
@@ -415,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/ashimaryal25/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/ashimaryal25/DSA-Practice/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0210-course-schedule-ii/) | Medium |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -452,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -537,4 +544,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
