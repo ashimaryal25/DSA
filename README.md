@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0704-binary-search/) | Easy |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0735-asteroid-collision](https://github.com/ashimaryal25/DSA-Practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/ashimaryal25/DSA-Practice/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ashimaryal25/DSA-Practice/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -211,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ashimaryal25/DSA-Practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0649-dota2-senate](https://github.com/ashimaryal25/DSA-Practice/tree/main/0649-dota2-senate/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -237,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/ashimaryal25/DSA-Practice/tree/main/0853-car-fleet/) | Medium |
 | [0948-bag-of-tokens](https://github.com/ashimaryal25/DSA-Practice/tree/main/0948-bag-of-tokens/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ashimaryal25/DSA-Practice/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -264,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [0763-partition-labels](https://github.com/ashimaryal25/DSA-Practice/tree/main/0763-partition-labels/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Sliding Window
@@ -353,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ashimaryal25/DSA-Practice/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/ashimaryal25/DSA-Practice/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
