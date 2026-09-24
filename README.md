@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/ashimaryal25/DSA-Practice/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ashimaryal25/DSA-Practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0494-target-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0695-max-area-of-island](https://github.com/ashimaryal25/DSA-Practice/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0704-binary-search/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/ashimaryal25/DSA-Practice/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ashimaryal25/DSA-Practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0721-accounts-merge](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0721-accounts-merge/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashimaryal25/DSA-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
