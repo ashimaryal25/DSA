@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashimaryal25/DSA-Practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/ashimaryal25/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ashimaryal25/DSA-Practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0394-decode-string/) | Medium |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ashimaryal25/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0268-missing-number/) | Easy |
