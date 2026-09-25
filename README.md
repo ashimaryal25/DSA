@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/ashimaryal25/DSA-Practice/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1046-last-stone-weight](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/ashimaryal25/DSA-Practice/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/ashimaryal25/DSA-Practice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
