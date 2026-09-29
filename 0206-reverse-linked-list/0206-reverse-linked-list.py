@@ -6,19 +6,22 @@
 class Solution(object):
     def reverseList(self, head):
         
-
-        cur = head 
+        cur = head
         prev = None
+
+
         while cur != None:
             
-            front = cur.next
+            forward = cur.next
 
             cur.next = prev
 
             prev = cur
 
-            cur = front
+            cur = forward
 
-        return prev
+        return prev    
+
+
  
         
