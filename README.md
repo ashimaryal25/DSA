@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ashimaryal25/DSA-Practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/ashimaryal25/DSA-Practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ashimaryal25/DSA-Practice/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0268-missing-number/) | Easy |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
