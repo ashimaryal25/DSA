@@ -4,15 +4,20 @@ class Solution(object):
         self.res = 0
 
         def dfs(node):
-            if not node:
+
+            if node == None:
                 return 0
-            
-            left_height = dfs(node.left)
-            right_height = dfs(node.right)
 
-            self.res = max(self.res, left_height + right_height)
+            left = dfs(node.left)
+            right = dfs(node.right)
 
-            return 1 + max( left_height , right_height)
+            diameter = left + right
+
+            self.res = max(self.res, diameter)
+
+            height = max(left, right) + 1
+
+            return height
 
         dfs(root)    
-        return self.res 
+        return self.res        
