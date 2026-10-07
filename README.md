@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0101-symmetric-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ashimaryal25/DSA-Practice/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/ashimaryal25/DSA-Practice/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0090-subsets-ii/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashimaryal25/DSA-Practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashimaryal25/DSA-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/ashimaryal25/DSA-Practice/tree/main/0036-valid-sudoku/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/ashimaryal25/DSA-Practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/ashimaryal25/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ashimaryal25/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -349,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
