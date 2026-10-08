@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/ashimaryal25/DSA-Practice/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/ashimaryal25/DSA-Practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0139-word-break/) | Medium |
+| [0202-happy-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ashimaryal25/DSA-Practice/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0268-missing-number/) | Easy |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/ashimaryal25/DSA-Practice/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashimaryal25/DSA-Practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/ashimaryal25/DSA-Practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashimaryal25/DSA-Practice/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/ashimaryal25/DSA-Practice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/ashimaryal25/DSA-Practice/tree/main/0268-missing-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
@@ -589,4 +592,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
