@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/ashimaryal25/DSA-Practice/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ashimaryal25/DSA-Practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/ashimaryal25/DSA-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/ashimaryal25/DSA-Practice/tree/main/0621-task-scheduler/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/ashimaryal25/DSA-Practice/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ashimaryal25/DSA-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/1046-last-stone-weight/) | Easy |
@@ -482,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashimaryal25/DSA-Practice/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/ashimaryal25/DSA-Practice/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -508,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashimaryal25/DSA-Practice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ashimaryal25/DSA-Practice/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/ashimaryal25/DSA-Practice/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Monotonic Stack
@@ -596,4 +601,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0202-happy-number/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ashimaryal25-ops/DSA-Practice/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
